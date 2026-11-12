@@ -160,3 +160,4 @@ Higher noise variance degrades the estimate noticeably. The iterative algorithm 
 2. Liu, Yanjun, Dongqing Wang, and Feng Ding. "Least squares based iterative algorithms for identifying Box-Jenkins models with finite measurement data." *Digital Signal Processing* 20.5 (2010): 1458-1467.
 3. Zhou, Lincheng, Xiangli Li, and Feng Pan. "Least-squares-based iterative identification algorithm for Wiener nonlinear systems." *Journal of Applied Mathematics* 2013 (2013).
 
+[Hossein Mosaffa's personal website](https://hossein-mosaffa.github.io)
